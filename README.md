@@ -1,7 +1,7 @@
 # Hackintosh-BigSur-X510UR-BQ166T
 My files and info of a Big Sur Hackintosh build on a ASUS X510UR-BQ166T
 
-[macOS BigSur config screenshot](/Screenshots/BigSur-Config.png?raw=true)
+![macOS BigSur config screenshot](/Screenshots/BigSur-Config.png?raw=true)
 
 First thing you need to know is that you probably will encounter problems, even if your rig is the same as mine. If you don't know what you are doing don't even get started or you will get frustated. Hackintosh isn't as simple as a step by step guide. Read everything before you start.
 Don't do it if you depend on this laptop for deadlines, this may take time until you suceed.
